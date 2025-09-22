@@ -1,0 +1,129 @@
+  <!DOCTYPE html>
+  <html lang="en-" dir="ltr"></html> 
+   
+  
+  <head>
+    <meta charset="UTF-8" >
+    <meta name="author" content="Dionadams">
+    <meta name="description" content="we are into electrical mechanical installations and maintenance">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+     <title>About Dionadams Group</title>
+     <link rel="icon" href="logo image.jpg" type="image/x-icon">
+      <link rel="stylesheet" href="css/style.css" type="text/css">
+      <link rel='dns-prefetch' href='//fonts.googleapis.com' />
+      <meta name="robots" content="index, follow" />
+      <link rel="canonical" herf="https://www.dionadamsgroup.com/"/>
+      <meta property="og:locale" content="en_US" />
+      <meta property="og:type" content="website" />
+      <meta property="og:title" content="Dionadamsgroup nigeria limited" />
+     <meta property="og:url" content="https://www.dionadamsgroup.com/" />
+     <meta property="og:site_name" content="Dionadamsgroup nigeria limited" />
+     <meta property="article:modified_time" content="2025-8-28T10:18:19+00:00" />
+     <meta property="og:image" content="https://dionadamsgroup.com/logoimage.png" />
+     <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <link rel="alternate" type="application/rss+xml" title="DIONADAMS GROUP NIGERIA LIMITED &raquo; Feed" herf="https://www.dionadamsgroup.com/" />
+     <link rel="alternate" type="application/rss+xml" title="DIONADAMS GROUP NIGERIA LIMITED &raquo; Comments Feed" href="https://www.dionadamsgroup.com/comments/feed/" />
+     <link rel='stylesheet' id='sjb-editor-font-awesome-css' href='https://www.dionadamsgroup.com/wp-content/plugins/simple-job-board/sjb-block/dist/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+     <link rel='stylesheet' id='formidable-css' href='https://www.dionadamsgroup.com/wp-content/plugins/formidable/css/formidableforms.css?ver=427158' type='text/css' media='all' />
+     <link rel='stylesheet' id='js_composer_front-css' href='https://www.dionadamsgroup.com/wp-content/plugins/vs-composer/assets/css/js_composer.min.css?ver=5.5.2' type='text/css' media='all' />
+     </head>
+   
+     <body>
+      <h1 class="color-font"><strong>⚡ Dionadamsgroup:A Subsidiary of Dionelectrical</strong></h1>
+       
+      <img src="diontec.png" alt="Diontech logo" tittle="Dionadamsgroup logo" width="90" hight="100" loading="lzy">
+      </figure>
+
+     <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora officiis reiciendis laudantium dolore, earum deserunt architecto aut! Nemo nulla unde necessitatibus optio eveniet atque ea, perferendis, culpa ad nobis provident.
+        </p>
+
+      <hr>
+      &lt;&lt;&lt; &copy; <a href="about.html">Dionadamsgroup</a>  &gt;&gt;&gt;
+
+    <nav>
+ <a href="#about">About</a>
+   <a href="#services">Services</a>
+   <a href="#standards">Standards</a>
+ <a href="#contact">Contact</a>
+ </nav>
+ </header>
+ <section class="hero">
+   <h1>DION ELECTRICAL</h1>
+  <p>Powering progress with precision. We deliver certified electrical engineering solutions built on safety, quality, and innovation.</p>
+ </section>
+<section class="section" id="about">
+ <h2>About Us</h2>
+     <p>At DION ELECTRICAL, we specialize in high-standard electrical design, installation, and maintenance. Our team of licensed professionals ensures every project meets regulatory and environmental benchmarks. With a commitment to excellence and safety, we empower industries and communities across Nigeria and beyond.</p>
+ </section>
+ <section class="section services" id="services">
+  <h2>Our Services</h2>
+      <ul>
+      <li>⚡ Electrical Design & Engineering</li>
+     <li>🔧 Installation of Transformers & Switchgear</li>
+     <li>🧪 Testing & Commissioning</li>
+   <li>🔍 Preventive Maintenance & Inspections</li>
+     <li>📋 Environmental Impact Assessments</li>
+    <li>👷 Training & Certification for Electrical Personnel</li>
+    </ul>
+ </section>
+<section class="section" id="standards">
+ <h2>Work Standards</h2>
+  <table>
+   <thead>
+    <tr>
+    <th>Component</th>
+   <th>Description</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+  <td>Design Standards</td>
+  <td>All electrical designs must be reviewed and approved by certified engineers.</td>
+ </tr>
+  <tr>
+  <td>Installation Protocols</td>
+  <td>Use of approved materials, proper terminations, and grounding techniques.</td>
+  </tr>
+  <tr>
+  <td>Testing & Commissioning</td>
+  <td>Mandatory pre- and post-installation testing with certified equipment.</td>
+  </tr>
+<tr>
+   <td>Maintenance Guidelines</td>
+  <td>Scheduled inspections and preventive maintenance to reduce downtime.</td>
+  </tr>
+  <tr>
+  <td>Personnel Qualification</td>
+ <td>Only licensed professionals may execute or supervise electrical work.</td>
+  </tr>
+  <tr>
+  <td>Environmental Impact</td>
+  <td>Projects must include an Environmental Impact Assessment (EIA) when required.</td>
+
+            </tr>
+   </tbody>
+  </table>
+  </section>
+ <section class="section contact" id="contact">
+ <h2>Contact Us</h2>
+ <p><strong>Email:</strong> info.diontech@gmail.com</p>
+ <p><strong>Phone:</strong> +234 0703 6734 244 or +234 0907 157 4570.
+</p>                        
+ <p><strong>Location:</strong> Lagos, Nigeria</p>
+   <p>Follow us on:
+   <a href="#">Facebook</a> |
+   <a href="#">LinkedIn</a> |
+ <a href="#">Instagram</a>
+ <a href="#">twitter</a>
+  </p>
+ </section>
+ <footer>
+ © 2025 DIONADAMSGROUP ELECTRICAL. All rights reserved.
+ </footer>
+</body>
+</html>
+   </body>
+    
+    
